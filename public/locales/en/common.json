@@ -1,0 +1,12 @@
+{
+  "nav": {
+    "home": "Home",
+    "aboutUs": "About Us",
+    "services": "Services",
+    "blog": "Blog",
+    "ourTeam": "Our Team",
+    "contactUs": "Contact Us",
+    "bookAppointment": "Book Appointment",
+    "search": "Search"
+  }
+}

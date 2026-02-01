@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "aboutUs": "عن الشركة",
+    "services": "الخدمات",
+    "blog": "المدونة",
+    "ourTeam": "فريقنا",
+    "contactUs": "اتصل بنا",
+    "bookAppointment": "حجز موعد",
+    "search": "بحث"
+  },
+  "services": {
+    "col1": {
+      "legalConsultation": "خدمات الاستشارة القانونية",
+      "foreignInvestment": "خدمات الاستثمار الأجنبي",
+      "contracts": "العقود",
+      "notarization": "التوثيق",
+      "insurance": "التأمين"
+    },
+    "col2": {
+      "defenseAllCases": "... والدفاع في جميع القضايا",
+      "banks": "البنوك والمؤسسات المالية",
+      "corporateGovernance": "خدمات حوكمة الشركات",
+      "companiesLiquidation": "تصفية الشركات",
+      "internalRegulations": "اللوائح الداخلية للشركات"
+    },
+    "col3": {
+      "servicesCompanies": "الخدمات للشركات والهيئات",
+      "arbitration": "التحكيم",
+      "intellectualProperty": "الملكية الفكرية",
+      "corporateRestructuring": "إعادة الهيكلة والتنظيم"
+    },
+    "col4": {
+      "establishingCompanies": "إنشاء الشركات الوطنية والأجنبية",
+      "commercialAgencies": "الوكالات التجارية",
+      "supportingVision": "دعم رؤية 2030",
+      "estates": "العقارات"
+    }
+  }
+}
